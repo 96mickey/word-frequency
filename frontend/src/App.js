@@ -26,7 +26,11 @@ class App extends Component {
       });
     else {
       this.setState({ loading: true });
-      fetch(`http://localhost:3001/api/user/getfrequency/${this.state.number}`)
+      fetch(
+        `http://ec2-18-218-14-83.us-east-2.compute.amazonaws.com:3001/api/user/getfrequency/${
+          this.state.number
+        }`
+      )
         .then(res => res.json())
         .then(res => {
           if (res.status === "success")
