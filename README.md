@@ -45,3 +45,9 @@ then the requested amount of data is sent to the front-end. This data is then di
 Front-end validates if there is some number in the text filed and also whether it is empty of not. It will respond accordingly.
 
 The validations are done both on front-end and back-end. 
+
+The file from which data is extracted, is hosted at 
+
+http://terriblytinytales.com/test.txt(http://terriblytinytales.com/test.txt)
+
+
