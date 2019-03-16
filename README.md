@@ -48,6 +48,6 @@ The validations are done both on front-end and back-end.
 
 The file from which data is extracted, is hosted at 
 
-http://terriblytinytales.com/test.txt(http://terriblytinytales.com/test.txt)
+[TXT file](http://terriblytinytales.com/test.txt)
 
 
